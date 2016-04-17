@@ -10,8 +10,8 @@
 	/* @ngInject */
 	function feedbackService($cordovaEmailComposer) {
 
-		var recipent = "skounis@gmail.com";
-		var subject  = "Barebone - Feedback"
+		var recipent = "isleychase@gmail.com";
+		var subject  = "Message sent from BonaVista App"
 
 		var service = {
 			sendEmail: sendEmail
