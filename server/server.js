@@ -26,8 +26,8 @@
  */
  
 // Mailgun API keys
-var API_KEY = '<YOUR-API-KEY>';
-var DOMAIN = '<SANDBOX12345.MAILGUN.ORG>';
+var API_KEY = 'key-a1e5d9a1658c2e9b78dfc3be04c865ae';
+var DOMAIN = 'sandbox9b1eacee48da4d0cb7bc9d8c88eee410.mailgun.org';
 
 // optional custom requirements
 var qs         = require('querystring');
