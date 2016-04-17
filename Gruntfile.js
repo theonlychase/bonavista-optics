@@ -63,9 +63,9 @@ module.exports = function(grunt) {
 						name: 'development',
 						apiEndpoint: 'http://dev.yoursite.com:10000/',
 						youtubeKey: 'AIzaSyDael5MmCQa1GKQNKQYypmBeB08GATgSEo',
-						ionicPrivateKey: 'a9265eaf15a20cc8516c770e8748aeed4891b28f453ce755', //'c63b22cd7330a4a9d5e526bfcd74891a59fd5c23d1d81239',
-						ionicPublicKey: 'e30d4d540b8c75d1f167bbf242423c3fb23fe10275d1c016', //'04dee953a91ef3857f1c8a7cf4748ecee375848681f7e833',
-						ionicAppId: '241b6d37', //'2113c758',
+						ionicPrivateKey: '5bbb94bf3072600eccce5db04c2e394b4bed4ff345407617', //'c63b22cd7330a4a9d5e526bfcd74891a59fd5c23d1d81239',
+						ionicPublicKey: '131a8bcfc22a9af963482705ae2555706e639d9d6de2bb7c', //'04dee953a91ef3857f1c8a7cf4748ecee375848681f7e833',
+						ionicAppId: '36058885', //'2113c758',
 						gcmId: '228071472080',
 						// https://developer.vimeo.com/api/authentication#single-user
 						vimeoAccessToken: 'd995ffff0228beba7c9716c3ee0d4add',
