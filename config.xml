@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.titaniumtemplates.bareboneionic" version="2.17.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Barebone</name>
+  <name>Bonavista Optics</name>
   <description>
-        Barebone Ionic. The boostrap you need in order to build your next Ionic application.
+        Bonavista Optics Mobile Application for iOS/Android.
     </description>
-  <author email="skounis@gmail.com" href="http://about.me/stavros.kounis">
-        Stavros Kounis
+  <author email="isleychase@gmail.com" href="http://chaseisley.io">
+        Chase Isley
     </author>
   <content src="index.html"/>
   <access origin="*"/>
