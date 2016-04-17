@@ -48,14 +48,11 @@
   "engines": {
     "node": ">=0.10.0"
   },
-
   "scripts": {
     "test": "grunt test",
-    "//": "Post installation.",
-    "//": "Uncomment the next line to enable post install script.",
-    "//": "There is always the option to run it manually.",
-    "//": { "postinstall": "./install.sh" },
-    "//": { "postinstall": "./install.bat" }
+    "//": {
+      "postinstall": "./install.bat"
+    }
   },
   "cordovaPlatforms": [],
   "cordovaPlugins": [
@@ -99,6 +96,15 @@
       },
       "locator": "https://github.com/Telerik-Verified-Plugins/Stripe",
       "id": "com.telerik.stripe"
-    }
+    },
+    "cordova-plugin-transport-security",
+    "cordova-plugin-console",
+    "cordova-plugin-whitelist",
+    "cordova-plugin-device",
+    "cordova-plugin-network-information",
+    "cordova-plugin-geolocation",
+    "cordova-plugin-inappbrowser",
+    "cordova-plugin-camera",
+    "cordova-plugin-admobpro"
   ]
 }
